@@ -43,7 +43,7 @@ git -->GitHub/Gitlab/bitbucket  --->
 
 IQ] what is the difference between GitHub and nexus?
 
-GitHub: used to manage the source code, Dockerfile  
+GitHub: used to manage the source code, Dockerfile, k8syaml, Terraform scripts, Anisble playbook, Dockerfile  
 Nexus : used to manage the build artifacts and docker images
 
 
